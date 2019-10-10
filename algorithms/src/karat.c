@@ -1,8 +1,8 @@
 /*
  ============================================================================
  Name        : algorithms.c
- Author      : 
- Version     :
+ Author      : Robert Carroll
+ Readme      : An implementation of the Karatsuba algorithm to multiply large numbers using strings in C
  ============================================================================
  */
 
